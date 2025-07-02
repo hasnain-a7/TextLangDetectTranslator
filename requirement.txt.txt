@@ -1,0 +1,5 @@
+flask
+scikit-learn
+deep_translator
+joblib
+pandas
