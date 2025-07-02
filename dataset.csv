@@ -9,6 +9,36 @@ Where are you from?,en
 I love programming,en
 Can you help me?,en
 Good night,en
+I am learning machine learning,en
+It's a beautiful day,en
+Let's go to the park,en
+I really enjoy reading books,en
+Do you like coffee?,en
+What's your favorite color?,en
+I have a meeting today,en
+This project is interesting,en
+Do you watch movies?,en
+I like to travel,en
+Could you repeat that?,en
+The weather is nice today,en
+I'm going to the store,en
+How old are you?,en
+My name is John,en
+Nice to meet you,en
+How was your weekend?,en
+Where is the nearest restaurant?,en
+I’m studying computer science,en
+What are your hobbies?,en
+Do you have siblings?,en
+This is my favorite song,en
+I work from home,en
+What time do you wake up?,en
+I went to the gym,en
+Are you free tomorrow?,en
+Let’s have lunch together,en
+Can you recommend a book?,en
+I need some help,en
+See you tomorrow,en
 Bonjour, comment ça va ?,fr
 Merci beaucoup,fr
 Bonne journée,fr
@@ -19,6 +49,35 @@ Comment vous appelez-vous ?,fr
 Je parle un peu français,fr
 Bonne nuit,fr
 Quel âge as-tu ?,fr
+J'aime apprendre le français,fr
+C'est une belle journée,fr
+Allons au parc ensemble,fr
+Est-ce que tu aimes le café ?,fr
+Quel est ton film préféré ?,fr
+J'ai une réunion aujourd'hui,fr
+Ce projet est intéressant,fr
+Regardes-tu des films ?,fr
+J'aime voyager,fr
+Peux-tu répéter cela ?,fr
+Il fait beau aujourd'hui,fr
+Je vais au magasin,fr
+Quel âge as-tu ?,fr
+Je m'appelle Pierre,fr
+Enchanté de te rencontrer,fr
+Comment était ton week-end ?,fr
+Où est le restaurant le plus proche ?,fr
+J'étudie l'informatique,fr
+Quels sont tes passe-temps ?,fr
+As-tu des frères et sœurs ?,fr
+C'est ma chanson préférée,fr
+Je travaille de chez moi,fr
+À quelle heure te réveilles-tu ?,fr
+Je suis allé à la salle de sport,fr
+Es-tu libre demain ?,fr
+Déjeunons ensemble,fr
+Peux-tu recommander un livre ?,fr
+J'ai besoin d'aide,fr
+À demain,fr
 Ciao, come stai?,it
 Buongiorno,it
 Grazie mille,it
@@ -29,6 +88,35 @@ Dove abiti?,it
 Parlo un po’ di italiano,it
 Buona notte,it
 Quanti anni hai?,it
+Mi piace imparare l'italiano,it
+È una bella giornata,it
+Andiamo al parco,it
+Ti piace il caffè?,it
+Qual è il tuo film preferito?,it
+Ho una riunione oggi,it
+Questo progetto è interessante,it
+Guardate film?,it
+Mi piace viaggiare,it
+Puoi ripetere?,it
+Oggi fa bel tempo,it
+Vado al negozio,it
+Quanti anni hai?,it
+Mi chiamo Luca,it
+Piacere di conoscerti,it
+Com'è stato il tuo weekend?,it
+Dov'è il ristorante più vicino?,it
+Studio informatica,it
+Quali sono i tuoi hobby?,it
+Hai fratelli o sorelle?,it
+Questa è la mia canzone preferita,it
+Lavoro da casa,it
+A che ora ti svegli?,it
+Sono andato in palestra,it
+Sei libero domani?,it
+Pranziamo insieme,it
+Puoi consigliare un libro?,it
+Ho bisogno di aiuto,it
+A domani,it
 Hallo, wie geht's?,de
 Guten Morgen,de
 Danke schön,de
@@ -39,6 +127,35 @@ Woher kommen Sie?,de
 Ich spreche ein bisschen Deutsch,de
 Gute Nacht,de
 Wie alt sind Sie?,de
+Ich lerne gerade Deutsch,de
+Es ist ein schöner Tag,de
+Gehen wir in den Park,de
+Magst du Kaffee?,de
+Was ist dein Lieblingsfilm?,de
+Ich habe heute ein Meeting,de
+Dieses Projekt ist interessant,de
+Schaust du Filme?,de
+Ich reise gern,de
+Kannst du das wiederholen?,de
+Das Wetter ist heute schön,de
+Ich gehe zum Laden,de
+Wie alt bist du?,de
+Ich heiße Peter,de
+Freut mich, dich kennenzulernen,de
+Wie war dein Wochenende?,de
+Wo ist das nächste Restaurant?,de
+Ich studiere Informatik,de
+Was sind deine Hobbys?,de
+Hast du Geschwister?,de
+Das ist mein Lieblingslied,de
+Ich arbeite von zu Hause,de
+Wann stehst du auf?,de
+Ich war im Fitnessstudio,de
+Bist du morgen frei?,de
+Lass uns zusammen essen,de
+Kannst du ein Buch empfehlen?,de
+Ich brauche Hilfe,de
+Bis morgen,de
 ہیلو آپ کیسے ہیں؟,ur
 صبح بخیر,ur
 بہت شکریہ,ur
@@ -49,6 +166,35 @@ Wie alt sind Sie?,de
 میں تھوڑی اردو بولتا ہوں,ur
 شب بخیر,ur
 آپ کی عمر کیا ہے؟,ur
+آج موسم بہت اچھا ہے,ur
+کیا آپ چائے پسند کرتے ہیں؟,ur
+چلیں پارک چلتے ہیں,ur
+میں اردو سیکھ رہا ہوں,ur
+آپ کی پسندیدہ فلم کون سی ہے؟,ur
+آج میرا ایک میٹنگ ہے,ur
+یہ پروجیکٹ دلچسپ ہے,ur
+کیا آپ فلمیں دیکھتے ہیں؟,ur
+مجھے سفر کرنا پسند ہے,ur
+کیا آپ دوبارہ کہہ سکتے ہیں؟,ur
+آج کا موسم اچھا ہے,ur
+میں دکان جا رہا ہوں,ur
+آپ کی عمر کیا ہے؟,ur
+میرا نام علی ہے,ur
+آپ سے مل کر خوشی ہوئی,ur
+آپ کا ویک اینڈ کیسا گزرا؟,ur
+سب سے قریبی ریستوران کہاں ہے؟,ur
+میں کمپیوٹر سائنس پڑھ رہا ہوں,ur
+آپ کے مشغلے کیا ہیں؟,ur
+کیا آپ کے بہن بھائی ہیں؟,ur
+یہ میرا پسندیدہ گانا ہے,ur
+میں گھر سے کام کرتا ہوں,ur
+آپ کب اٹھتے ہیں؟,ur
+میں جم گیا تھا,ur
+کیا آپ کل فارغ ہیں؟,ur
+آئیں مل کر کھانا کھاتے ہیں,ur
+کوئی کتاب تجویز کریں,ur
+مجھے مدد چاہیے,ur
+کل ملتے ہیں,ur
 Hola, ¿cómo estás?,es
 Buenos días,es
 Muchas gracias,es
@@ -59,6 +205,35 @@ Te quiero,es
 Hablo un poco de español,es
 Buenas noches,es
 ¿Cuántos años tienes?,es
+Estoy aprendiendo español,es
+Es un día hermoso,es
+¿Quieres ir al parque?,es
+¿Te gusta el café?,es
+¿Cuál es tu película favorita?,es
+Tengo una reunión hoy,es
+Este proyecto es interesante,es
+¿Ves películas?,es
+Me gusta viajar,es
+¿Puedes repetir eso?,es
+Hace buen tiempo hoy,es
+Voy a la tienda,es
+¿Cuántos años tienes?,es
+Me llamo Juan,es
+Encantado de conocerte,es
+¿Cómo fue tu fin de semana?,es
+¿Dónde está el restaurante más cercano?,es
+Estudio informática,es
+¿Cuáles son tus pasatiempos?,es
+¿Tienes hermanos?,es
+Esta es mi canción favorita,es
+Trabajo desde casa,es
+¿A qué hora te levantas?,es
+Fui al gimnasio,es
+¿Estás libre mañana?,es
+Almorcemos juntos,es
+¿Puedes recomendar un libro?,es
+Necesito ayuda,es
+Hasta mañana,es
 سلام خوبی؟,fa
 صبح بخیر,fa
 خیلی ممنون,fa
@@ -69,3 +244,31 @@ Buenas noches,es
 من کمی فارسی صحبت می‌کنم,fa
 شب بخیر,fa
 چند سالته؟,fa
+امروز هوا خوبه,fa
+بیا بریم پارک,fa
+آیا قهوه دوست داری؟,fa
+فیلم مورد علاقه‌ات چیست؟,fa
+امروز یک جلسه دارم,fa
+این پروژه جالبه,fa
+فیلم می‌بینی؟,fa
+دوست دارم سفر کنم,fa
+می‌تونی دوباره بگی؟,fa
+هوا امروز خوبه,fa
+میرم مغازه,fa
+چند سالته؟,fa
+اسم من علی‌ست,fa
+از آشنایی خوشبختم,fa
+آخر هفته‌ات چطور بود؟,fa
+نزدیک‌ترین رستوران کجاست؟,fa
+من رشته کامپیوتر می‌خوانم,fa
+سرگرمی‌هات چیه؟,fa
+خواهر و برادر داری؟,fa
+این آهنگ مورد علاقه‌ام است,fa
+از خانه کار می‌کنم,fa
+کی بیدار می‌شی؟,fa
+رفتم باشگاه,fa
+آیا فردا آزادی؟,fa
+بیا با هم ناهار بخوریم,fa
+میتونی یه کتاب معرفی کنی؟,fa
+به کمک نیاز دارم,fa
+فردا می‌بینمت,fa
