@@ -18,6 +18,9 @@ LANGUAGES = {
     "Urdu": "ur",
     "Persian": "fa"
 }
+@app.route('/')
+def home():
+    return "Backend is running!"
 
 @app.route('/detect_translate', methods=['POST'])
 def detect_and_translate():
