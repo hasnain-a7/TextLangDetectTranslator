@@ -1,10 +1,11 @@
+import os
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import joblib
 from deep_translator import GoogleTranslator
 
 app = Flask(__name__)
-CORS(app)  # Allow frontend to call backend
+CORS(app)
 
 # Load model
 model = joblib.load('language_detection_model.pkl')
@@ -29,12 +30,8 @@ def detect_and_translate():
         return jsonify({"error": "No text provided"}), 400
 
     try:
-        # Predict language
         detected_lang = model.predict([text])[0]
-
-        # Translate
         translation = GoogleTranslator(source=detected_lang, target=target_lang_code).translate(text)
-
         return jsonify({
             'detected_lang': detected_lang,
             'translation': translation
@@ -43,4 +40,5 @@ def detect_and_translate():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=True, port=port)
